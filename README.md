@@ -30,4 +30,7 @@ An automated warehouse order processing and reporting workflow developed as part
 Completed as an n8n Academy educational project.
 
 ## Author
-Eskandar Balakhanlu
+## Workflow Screenshot
+
+![Warehouse Order Automation](warehouse-workflow.png)
+
